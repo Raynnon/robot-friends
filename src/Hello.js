@@ -4,7 +4,7 @@ import './Hello.css';
 class Hello extends React.Component {
 	render() {
     	return (
-    		<div>
+    		<div className="f1 tc">
     			<h1>Hello World!</h1>
     			<p>Hola todos</p>
     		</div>

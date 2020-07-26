@@ -6,7 +6,7 @@ import * as serviceWorker from './serviceWorker';
 import 'tachyons';
 
 ReactDOM.render(
-    <Hello />,
+    <Hello greeting={'Hello React ninja'}/>,
   document.getElementById('root')
 );
 
